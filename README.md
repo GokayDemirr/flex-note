@@ -1,5 +1,5 @@
-Markdown Notebook
-An interactive Markdown note-taking app built with Next.js, TypeScript, and TailwindCSS. Users can create multiple notebooks and organize their notes efficiently.
+Flex Note
+An interactive note taking app built with Next.js, TypeScript, and TailwindCSS. Users can create multiple notebooks and organize their notes efficiently.
 
 Features
 📒 Create and manage multiple notebooks
